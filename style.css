@@ -1,11 +1,11 @@
 @font-face {
     font-family: 'PRViking';
-    src: url(PR\ Viking.ttf);
+    src: url(./fonts/PR\ Viking.ttf);
 }
 
 @font-face {
     font-family: 'norse';
-    src: url(Norse.otf);
+    src: url(./fonts/Norse.otf);
 }
 
 * {
@@ -17,7 +17,7 @@ html{
 }
 
 body {
-    background-image: url(tree.svg);
+    background-image: url(./pics/tree.svg);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: bottom;
@@ -114,4 +114,8 @@ a:hover {
 
 div {
     background-color: transparent;
+}
+
+#feast:hover {
+    fill: red;
 }
