@@ -1,3 +1,3 @@
 # odin-recipes
-this should have a main page and some sub pages with recipes
-i should get better in htm while doing it
+This is my first real try on building a web page and styling it with some css on my own.
+Done as a task for TOP 
